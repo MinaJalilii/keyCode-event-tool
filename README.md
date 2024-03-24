@@ -1,6 +1,6 @@
 # JavaScript KeyCode Event Tool
 JavaScript key code event tool
-
+Live Preview -> [https://minajalilii.github.io/keyCode-event-tool](https://minajalilii.github.io/keyCode-event-tool/)
 ## Usage
 
 - Open the `index.html` file in your web browser.
